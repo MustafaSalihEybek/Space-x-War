@@ -1,5 +1,5 @@
 # Space-x-War
- Space x War - Desktop And Mobile Game
+<h3><b>Space x War - Desktop And Mobile Game</b></h3>
 
 Fight against enemies in space with your ship and skip levels. You will need stronger ships for stronger enemies. There are a total of 5 ships in the game and each ship is stronger than the other. Buy ships and upgrade your ships so you will have stronger ships. You will fight against more challenging enemies in each level.
 
